@@ -4,18 +4,19 @@
     "url": "https://digitalpartners.ai",
     "icon": "https://favicons.githubusercontent.com/digitalpartners.ai",
     "slug": "digital-partners",
-    "status": "up",
-    "uptime": "84.30%",
-    "uptimeDay": "77.32%",
-    "uptimeWeek": "84.30%",
-    "uptimeMonth": "84.30%",
-    "uptimeYear": "84.30%",
+    "status": "down",
+    "uptime": "85.97%",
+    "uptimeDay": "78.05%",
+    "uptimeWeek": "85.97%",
+    "uptimeMonth": "85.97%",
+    "uptimeYear": "85.97%",
     "time": 393,
     "timeDay": 337,
     "timeWeek": 393,
     "timeMonth": 393,
     "timeYear": 393,
     "dailyMinutesDown": {
+      "2022-03-05": 0,
       "2022-03-04": 327
     }
   }
